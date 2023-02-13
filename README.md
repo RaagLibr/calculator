@@ -1,2 +1,3 @@
-# fun-with-JAVA
-Mini java projects 
+#Calculator by using java#
+
+ 
